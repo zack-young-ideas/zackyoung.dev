@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="225"
+   height="29"
+   viewBox="0 0 59.531249 7.6729169"
+   version="1.1"
+   id="svg895"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="45.254834"
+     inkscape:cx="210.8725"
+     inkscape:cy="5.7562911"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs889" />
+  <metadata
+     id="metadata892">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-289.32706)">
+    <path
+       style="opacity:1;fill:#3fa2f0;fill-opacity:1;stroke:none;stroke-width:0.796157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.7898385,289.83671 c 0.3930589,0.22693 0.5227632,0.75007 0.2743683,1.16326 l -2.3775843,3.95493 c -0.248395,0.41319 -0.75153457,0.57095 -1.14458381,0.34402 -0.39304931,-0.22693 -0.51541751,-0.74573 -0.27436834,-1.16325 l 2.37758445,-3.95494 c 0.2483949,-0.41319 0.7515344,-0.57094 1.1445837,-0.34402 z"
+       id="rect903-0-6" />
+    <rect
+       style="opacity:1;fill:#3fa2f0;fill-opacity:1;stroke:none;stroke-width:0.796157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect903-3-2-1"
+       width="1.6384714"
+       height="3.8767526"
+       x="149.55504"
+       y="250.30276"
+       rx="1.0289876"
+       ry="1.0930275"
+       transform="rotate(30)" />
+    <circle
+       style="opacity:1;fill:#3fa2f0;fill-opacity:1;stroke:none;stroke-width:0.880236;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path920-3-0"
+       cx="5.6233892"
+       cy="290.82037"
+       r="0.79253328" />
+    <path
+       style="opacity:1;fill:#3fa2f0;fill-opacity:1;stroke:none;stroke-width:0.796157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.88908856,289.73561 c -0.16002582,-0.0157 -0.32369102,0.0157 -0.47108451,0.1008 -0.39304931,0.22693 -0.51547497,0.746 -0.2744258,1.16352 l 0.74819193,1.23179 0.94627782,-1.57151 -0.2754602,-0.47984 c -0.1506593,-0.26095 -0.4068022,-0.41851 -0.67349924,-0.44476 z"
+       id="rect903-6-7-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5696px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.18924"
+       x="7.5990882"
+       y="295.32144"
+       id="text820-4-5-5-3-3"><tspan
+         id="tspan818-7-3-9-2-6"
+         x="7.5990882"
+         y="295.32144"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#444444;fill-opacity:1;stroke-width:0.18924">zackyoung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5696px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6c757d;fill-opacity:1;stroke:none;stroke-width:0.18924"
+       x="47.287518"
+       y="295.32016"
+       id="text820-4-5-5-3"><tspan
+         id="tspan818-7-3-9-2"
+         x="47.287518"
+         y="295.32016"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#6c757d;fill-opacity:1;stroke-width:0.18924">dev</tspan></text>
+    <circle
+       style="fill:#3fa2f0;fill-opacity:1;stroke-width:0.270108;stroke-linecap:round;stroke-linejoin:round"
+       id="path453"
+       cx="45.942719"
+       cy="294.52759"
+       r="0.86679959" />
+  </g>
+</svg>

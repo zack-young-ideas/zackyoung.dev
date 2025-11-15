@@ -76,3 +76,22 @@ searchField.addEventListener('keydown', function(event) {
     search();
   }
 });
+
+const clearSearch = () => {
+  const youngideasDefined = window.youngideas !== undefined;
+  const postsDefined = window.youngideas.posts !== undefined;
+  if (youngideasDefined && postsDefined) {
+    const allPosts = window.youngideas.posts;
+
+    for (let i = 0; i < allPosts.length; i++) {
+      // Display every post.
+      const domElement = document.querySelector(
+        `[data-uid="${allPosts[i].uid}"]`
+      );
+      domElement.style.display = 'block';
+    }
+  }
+}
+
+const clearButton = document.getElementById('clear-button');
+clearButton.addEventListener('click', clearSearch);

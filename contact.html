@@ -2,17 +2,85 @@
 layout: default
 title: Contact | Youngideas
 ---
-<div class="px-2 py-2 vh-100">
+<div class="vh-100">
 
-  <div class="container col-12 col-lg-8 col-xl-6 my-5 px-4 py-5">
-    <div class="row align-items-center g-5 py-1">
+  <div class="container my-5 px-4 py-5">
+    <div class="row align-items-center">
       <div class="col">
-        <div class="border-0 card my-5">
-          <div class="card-body text-center">
-            <h1>Contact</h1>
-            <p>Feel free to contact me about your next project, or to
-              just say hi.</p>
-            <button class="btn btn-primary">Email Me</button>
+        <div class="card my-5">
+          <div class="card-body">
+            <div class="mb-4 text-center">
+              <h1>Contact</h1>
+              <p>Feel free to contact me about your next project, or to
+                just say hi.</p>
+            </div>
+            <form>
+              <div class="mb-3 row">
+                <label
+                  class="col-lg-2 d-none d-lg-inline form-label fw-bold"
+                  for="first-name"
+                >First Name</label>
+                <div class="col-lg-10">
+                <input
+                  class="form-control"
+                  id="first-name"
+                  name="firstName"
+                  placeholder="First Name"
+                  type="text"
+                />
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label
+                  class="col-lg-2 d-none d-lg-inline form-label fw-bold"
+                  for="first-name"
+                >Last Name</label>
+                <div class="col-lg-10">
+                <input
+                  class="form-control"
+                  id="last-name"
+                  name="lastName"
+                  placeholder="Last Name"
+                  type="text"
+                />
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label
+                  class="col-lg-2 d-none d-lg-inline form-label fw-bold"
+                  for="first-name"
+                >Email</label>
+                <div class="col-lg-10">
+                <input
+                  class="form-control"
+                  id="email"
+                  name="email"
+                  placeholder="Email"
+                  type="email"
+                />
+                </div>
+              </div>
+              <div class="mb-3 row">
+                <label
+                  class="col-lg-2 d-none d-lg-inline form-label fw-bold"
+                  for="first-name"
+                >Message</label>
+                <div class="col-lg-10">
+                <textarea
+                  class="form-control"
+                  id="message"
+                  name="message"
+                  placeholder="What's on your mind?"
+                ></textarea>
+                </div>
+              </div>
+              <div class="row text-center text-lg-start">
+                <span class="col-lg-2"></span>
+                <span class="col-lg-10">
+                  <button type="submit" class="btn btn-primary">Submit</button>
+                </span>
+              </div>
+            </form>
           </div>
         </div>
       </div>

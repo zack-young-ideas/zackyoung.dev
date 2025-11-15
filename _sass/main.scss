@@ -49,3 +49,17 @@ $font-family-sans-serif: "Open Sans", "Nunito Sans", "Poppins", sans-serif;
     color: $primary
   }
 }
+
+.search-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  #clear-button {
+    padding-right: 0.6em;
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    font-size: 1.2em;
+  }
+}
